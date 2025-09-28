@@ -12,7 +12,7 @@ It provides **summary-level insights** on hiring, demographics, and income trend
 - **File:** `HumanResources.csv`  
 - **Generated Using:** Python (`Generate Data.py`)  
 - **Key Columns:**  
-  - `EmployeeID`, `Name`, `Department`, `JobTitle`, `Gender`, `Age`, `Education`, `PerformanceRating`, `HireDate`, `TerminationDate`, `Salary`, `City`, `State`, `HQ/Branch`  
+  - `EmployeeID`, `Name`, `Department`, `JobTitle`, `Gender`, `Age`, `Education`, `PerformanceRating`, `HireDate`, `TerminationDate`, `Salary`, `City`, `State`  
 
 ---
 

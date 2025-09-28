@@ -82,5 +82,3 @@ It provides **summary-level insights** on hiring, demographics, and income trend
 - CSV (final dataset)  
 
 ---
-
-## 📂 Repository Structure
